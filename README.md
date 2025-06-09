@@ -53,8 +53,8 @@
 #### 👨‍💻 [CodeConnect – Developer Social Platform](https://github.com/lakshika0813/codeConnect)
 > A social media platform for developers to collaborate, post, and engage with tech content. Built with the MERN stack, featuring user profiles, real-time notifications, real-time messaging and interest-based content filtering.
 
-#### 🔗 [ResqueLink – Disaster Management App](https://github.com/lakshika0813/ResqueLink)
-> ResqueLink is a lifesaver platform designed to aid in disaster situations. It connects affected individuals, volunteers, and relief providers in real time. Features include emergency reporting, live rescue coordination, and donation tracking. Ideal for NGOs and disaster response teams.
+#### 🔗 [RescueLink – Disaster Alerts & Management App](https://github.com/lakshika0813/RescueLink)
+> RescueLink is a lifesaver platform designed to aid in disaster situations. It connects affected individuals, volunteers, and relief providers in real time. Features include emergency reporting, live rescue coordination, and donation tracking. Ideal for NGOs and disaster response teams.
 
 #### 🌦️ [Weather App](https://github.com/lakshika0813/React-Weather-App)
 > A clean and simple weather app showing real-time weather updates from OpenWeather API. It features a sleek UI, responsive design, and quick city search support.
